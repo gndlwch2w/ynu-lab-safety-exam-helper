@@ -1,4 +1,4 @@
-# YNU Lab Security Exam Helper
+# YNU Lab Safety Exam Helper
 
 A example as follows:
 
