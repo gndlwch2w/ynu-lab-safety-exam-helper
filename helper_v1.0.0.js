@@ -2,7 +2,6 @@
 // @name     YNU Lab Safety Exam Helper v1.0.0
 // @include  https://learn-sysysb.ynu.edu.cn/learn/*
 // @require  https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js
-// @require  https://cdn.bootcdn.net/ajax/libs/axios/0.21.1/axios.min.js
 // @author   Chisheng Chen
 // @version  1.0.0
 // @license  MIT
